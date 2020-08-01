@@ -629,14 +629,14 @@
             "sids": [
                {
                   "names": [
-                     "OBOKA1M",
-                     "OBOKA1H",
-					 "MARUN6M",
-					 "MARUN4H",
-					 "MARUN6F",
-                     "TOBAK6M",
-					 "TOBAK4H",
-					 "TOBAK7F"
+                     	"OBOKA1M",
+                     	"OBOKA1H",
+			"MARUN6M",
+			"MARUN4H",
+			"MARUN6F",
+                     	"TOBAK6M",
+			"TOBAK4H",
+			"TOBAK7F"
                   ],
                   "comment": "Default SIDS 25C North (all but 2H)",
                   "comment2": "(Blue)",
@@ -650,11 +650,11 @@
                },
                {
                   "names": [
-                     "OBOKA1G",
-                     "MARUN6F",
-                     "MARUN8G",
-                     "TOBAK7F",
-					 "TOBAK9G"
+                     	"OBOKA1G",
+                     	"MARUN6F",
+                     	"MARUN8G",
+                     	"TOBAK7F",
+			"TOBAK9G"
                   ],
                   "comment": "Default SIDS 25 North (only 2H or unable)",
                   "comment2": "(Blue)",
@@ -668,10 +668,10 @@
                },
 			   {
                   "names": [
-                     "OBOKA1H",
-                     "MARUN4H",
-					 "TOBAK4H",
-					 "MARUN4H"
+                     	"OBOKA1H",
+                     	"MARUN4H",
+			"TOBAK4H",
+			"MARUN4H"
                   ],
                   "comment": "Default SIDS 25L North (all but 2H)",
                   "comment2": "(Blue)",
@@ -685,9 +685,9 @@
                },
                {
                   "names": [
-                     "OBOKA1E",
-                     "MARUN5E",
-                     "TOBAK9D"
+                    	 "OBOKA1E",
+                    	 "MARUN5E",
+                    	 "TOBAK9D"
                   ],
                   "comment": "Default SIDS 07 North (M/L)",
                   "comment2": "(Mint Green)",
@@ -701,9 +701,9 @@
                },
 			   {
                   "names": [
-                     "OBOKA1D",
-                     "MARUN9D",
-                     "TOBAK9D"
+                    	 "OBOKA1D",
+                    	 "MARUN9D",
+                   	 "TOBAK9D"
                   ],
                   "comment": "Default SIDS 07 North (H/J)",
                   "comment2": "(Mint Green)",
@@ -717,11 +717,11 @@
                },			   
                {
                   "names": [
-                     "SOBRA1L",
-                     "ULKIG1L",
-                     "ANEKI9L",
-					 "CINDY1S",
-					 "SULUS9S"
+                     	"SOBRA1L",
+                     	"ULKIG1L",
+                     	"ANEKI9L",
+			"CINDY1S",
+			"SULUS9S"
                   ],
                   "comment": "Default SIDS 18 South",
                   "comment2": "(Orange)",
@@ -735,10 +735,10 @@
                },
                {
                   "names": [
-                     "SOBRA6F",
-                     "ANEKI9F",
-                     "CINDY1F",
-                     "SULUS1F"
+                     	"SOBRA6F",
+                     	"ANEKI9F",
+                     	"CINDY1F",
+                     	"SULUS1F"
                   ],
                   "comment": "SIDS 25 South",
                   "comment2": "(Light Blue)",
@@ -752,11 +752,11 @@
                },
                {
                   "names": [
-                     "SOBRA6E",
-                     "ANEKI4E",
-                     "CINDY1D",
-                     "KOMIB3D",
-					 "SULUS1D"
+                     	"SOBRA6E",
+                     	"ANEKI4E",
+                     	"CINDY1D",
+                     	"KOMIB3D",
+			"SULUS1D"
                   ],
                   "comment": "SIDS 07 South (M/L)",
                   "comment2": "(Light Blue)",
@@ -770,11 +770,11 @@
                },
                {
                   "names": [
-                     "SOBRA6D",
-                     "ANEKI2D",
-                     "CINDY1D",
-                     "KOMIB3D",
-					 "SULUS1D"
+                     	"SOBRA6D",
+                     	"ANEKI2D",
+                     	"CINDY1D",
+                     	"KOMIB3D",
+			"SULUS1D"
                   ],
                   "comment": "SIDS 07 South (H/J)",
                   "comment2": "(Light Blue)",
@@ -788,7 +788,7 @@
                },
                {
                   "names": [
-                     "VCT"
+                     	"VCT"
                   ],
                   "comment": "Vectored",
                   "comment2": "(Yellow)",
