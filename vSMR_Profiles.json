@@ -717,22 +717,34 @@
                },			   
                {
                   "names": [
-                     	"SOBRA1L",
-                     	"ULKIG1L",
-                     	"ANEKI9L",
 			"CINDY1S",
+			"ANEKI9L",
 			"SULUS9S"
                   ],
-                  "comment": "Default SIDS 18 South",
-                  "comment2": "(Orange)",
+                  "comment": "Default SIDS 18 to East",
+                  "comment2": "(Dark Orange)",
                   "init_clb": 4000,
                   "color": {
-                     "r": 220,
-                     "g": 175,
-                     "b": 80,
+                     "r": 255,
+                     "g": 127,
+                     "b": 036,
                      "a": 200
                   }
                },
+                  "names": [
+                     	"SOBRA1L",
+                     	"ULKIG1L"
+                  ],
+                  "comment": "Default SIDS 18 to West",
+                  "comment2": "(Light Orange)",
+                  "init_clb": 4000,
+                  "color": {
+                     "r": 255,
+                     "g": 215,
+                     "b": 000,
+                     "a": 200
+                  }
+               },		    
                {
                   "names": [
                      	"SOBRA6F",
